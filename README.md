@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmoybiswas93&label=Profile%20views&color=0e75b6&style=flat" alt="chinmoybiswas93" /> </p>
 
-- 🌱 I’m currently learning **Next JS and Wordpress Plugin Developement**
+- 🌱 I’m currently learning **Next JS and Wordpress Developement**
 
 - 👨‍💻 All of my projects are available at [chinmoybiswas.com](chinmoybiswas.com)
 

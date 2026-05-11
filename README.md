@@ -31,9 +31,8 @@ Building robust WordPress solutions and modern web applications. Passionate abou
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chinmoybiswas93&show_icons=true&locale=en&layout=compact)
+## Portfolio
+[chinmoybiswas.com](https://chinmoybiswas.com)
 
 ---
 
